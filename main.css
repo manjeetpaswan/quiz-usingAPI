@@ -1,0 +1,17 @@
+.container{
+    background : rgb(226, 226, 248);
+    margin = auto;
+   
+}
+.container1{
+list-style: none;
+
+}
+.b-t-n{
+    cursor: pointer;
+}
+
+.option{
+
+    cursor: pointer;
+}
